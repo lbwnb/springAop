@@ -1,4 +1,4 @@
-package com.lbwnb.StringAop.StringAop;
+package com.lbwnb.SpringAop.StringAop;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

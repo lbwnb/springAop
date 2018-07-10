@@ -1,4 +1,4 @@
-package com.lbwnb.StringAop.StringAop;
+package com.lbwnb.SpringAop.StringAop;
 
 /**
  * Hello world!
