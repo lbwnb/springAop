@@ -7,7 +7,7 @@ public class App {
 public static void main(String[] args) {
 	ApplicationContext appContext = new ClassPathXmlApplicationContext(new String[] {"SpringAOPAdvice.xml"});
 	
-	CustomerService cust = (CustomerService) appContext.getBean("customerServiceProxy");
+	CustomerService cust = (CustomerService) appContext.getBean("customerService");
 	
 	System.out.println("使用Spring AOP如下");
 	System.out.println("********************");
